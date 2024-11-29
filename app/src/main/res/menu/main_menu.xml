@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_livro"
+        android:title="Livros"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_revista"
+        android:title="Revistas"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_aluno"
+        android:title="Alunos"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_aluguel"
+        android:title="Aluguéis"
+        app:showAsAction="never"/>
+</menu>

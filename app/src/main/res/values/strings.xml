@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblioteca2</string>
+    <string name="title_home">Home</string>
+    <string name="title_livros">Livros</string>
+    <string name="title_revistas">Revistas</string>
+    <string name="title_alunos">Alunos</string>
+    <string name="title_alugueis">Aluguéis</string>
+    <string name="label_codigo">Código</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_qtd_paginas">Quantidade de Páginas</string>
+    <string name="label_isbn">ISBN</string>
+    <string name="label_edicao">Edição</string>
+    <string name="label_issn">ISSN</string>
+    <string name="label_ra">RA</string>
+    <string name="label_email">Email</string>
+    <string name="label_data_retirada">Data de Retirada</string>
+    <string name="label_data_devolucao">Data de Devolução</string>
+    <string name="btn_inserir">Inserir</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_listar">Listar</string>
+    <string name="msg_sucesso_inserir">Registro inserido com sucesso</string>
+    <string name="msg_sucesso_atualizar">Registro atualizado com sucesso</string>
+    <string name="msg_sucesso_excluir">Registro excluído com sucesso</string>
+    <string name="msg_erro_campo_obrigatorio">Campo obrigatório</string>
+    <string name="msg_erro_registro_nao_encontrado">Registro não encontrado</string>
+</resources>
